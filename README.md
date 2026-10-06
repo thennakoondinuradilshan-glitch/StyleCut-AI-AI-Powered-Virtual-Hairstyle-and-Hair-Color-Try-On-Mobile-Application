@@ -1,2 +1,2 @@
-# UniPulse-Everything-happening-around-university-Mobile-Applicatin-Development
+# StyleCut Ai
 EC5208 Mobile Application Development - University of Ruhuna
